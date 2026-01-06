@@ -1,0 +1,201 @@
+order_id,item_name,choice_description,quantity,item_price,order_date
+1098,Boné,[Sem estampa],4,$98.21,2024-06-04
+1017,Pulseira,[Simples],4, ,2024-02-14
+1055,Blusa,"[Azul, M]",3,$59.88,2024-05-03
+1068,Broche,[Simples],2,$62.30,2024-05-12
+1059,Camiseta,"[Azul, M]",2,$82.68,2024-02-24
+1000,Mochila,"[Azul, M]",5,$88.38,2024-02-01
+1021,Boné,[Simples],5,$66.46,2024-02-09
+1020,Camiseta,[Edição limitada],4,$36.04,2024-02-10
+1049,Chaveiro,[Sem estampa],4,$92.40,2024-01-24
+1012,Corrente,[Estampada],5,$92.13,2024-02-15
+1001,Boné,[Simples],3,$84.44,2024-05-21
+1010,Camiseta,"[Vermelho, M]",4,$37.21,2024-03-05
+1084,Ecobag,"[Azul, M]",2,$85.08,2024-01-25
+1004,Ecobag,"[Branco, P]",1,$58.07,2024-05-22
+1082,Broche,[Simples],2,$97.16,2024-03-22
+1042,Ecobag,[Sem estampa],4,$52.22,2024-05-09
+1011,Camiseta,[Edição limitada],5, ,2024-01-07
+1071,Chaveiro,[Sem estampa],3,$71.17,2024-06-07
+1069,Mochila,"[Branco, P]",2,$82.10,2024-05-06
+1090,Pulseira,[Edição limitada],1,$64.13,2024-04-26
+1060,Boné,[Simples],4,$49.21,2024-06-16
+1088,Ecobag,[Sem estampa],5,$35.15,2024-05-16
+1038,Camiseta,[Estampada],1,$76.90,2024-03-12
+1054,Mochila,"[Branco, P]",3,$59.74,2024-04-15
+1032,Corrente,[Edição limitada],5,$80.28,2024-03-11
+1032,Camiseta,[Simples],4,$55.15,2024-01-29
+1023,Broche,"[Azul, M]",1,$58.52,2024-04-18
+1100,Boné,,4,$50.91,2024-01-10
+1012,Ecobag,[Edição limitada],1,$81.63,2024-04-25
+1047,Camiseta,"[Cinza, G]",5,$90.77,2024-05-14
+1008,Broche,"[Azul, M]",2,$15.18,2024-01-20
+1016,Mochila,"[Cinza, G]",2,$56.59,2024-03-04
+1050,Boné,[Estampada],5,$43.31,2024-04-13
+1100,Blusa,[Simples],2,$89.82,2024-05-06
+1084,Corrente,"[Branco, P]",3, ,2024-02-28
+1085,Pulseira,[Simples],1,$91.95,2024-01-03
+1090,Ecobag,"[Branco, P]",4,$80.68,2024-04-18
+1051,Chaveiro,[Estampada],1,$16.26,2024-01-15
+1053,Corrente,"[Cinza, G]",1, ,2024-02-19
+1027,Blusa,"[Azul, M]",5,$45.77,2024-01-15
+1049,Broche,[Estampada],3,$26.25,2024-06-09
+1040,Corrente,[Estampada],3,$19.94,2024-05-26
+1023,Corrente,"[Branco, P]",3,$13.94,2024-03-13
+1035,Blusa,"[Cinza, G]",1,$23.81,2024-05-19
+1031,Ecobag,"[Vermelho, M]",5,$11.30,2024-03-22
+1059,Mochila,"[Azul, M]",3, ,2024-01-17
+1089,Pulseira,[Edição limitada],1,$49.00,2024-05-13
+1015,Chaveiro,[Com logo],4,$62.44,2024-03-29
+1039,Corrente,"[Preto, G]",1,$52.01,2024-05-07
+1084,Broche,[Com logo],5,$14.70,2024-04-20
+1070,Blusa,"[Vermelho, M]",5,$61.01,2024-03-06
+1024,Broche,,2,$42.83,2024-01-07
+1090,Broche,"[Branco, P]",5,$96.54,2024-03-31
+1096,Mochila,[Simples],3,$37.49,2024-03-27
+1076,Mochila,"[Vermelho, M]",3,$74.87,2024-03-11
+1064,Pulseira,"[Preto, G]",1,$44.45,2024-04-16
+1002,Corrente,[Estampada],3,$80.62,2024-01-21
+1095,Chaveiro,[Estampada],5,$23.73,2024-02-17
+1020,Caneca,[Edição limitada],4,$20.91,2024-01-20
+1073,Ecobag,,5,$52.43,2024-03-13
+1090,Mochila,[Simples],2,$11.29,2024-01-17
+1022,Mochila,"[Cinza, G]",3,$10.66,2024-01-17
+1068,Mochila,[Simples],2,$83.15,2024-02-03
+1089,Broche,[Sem estampa],1,$36.11,2024-03-20
+1055,Chaveiro,[Sem estampa],5,$52.48,2024-05-23
+1011,Ecobag,"[Preto, G]",5,$97.26,2024-03-09
+1004,Ecobag,"[Cinza, G]",4,$43.33,2024-06-29
+1093,Ecobag,"[Azul, M]",3,$83.10,2024-03-25
+1083,Chaveiro,"[Preto, G]",5,$82.08,2024-06-09
+1076,Caneca,"[Preto, G]",3,$32.70,2024-03-13
+1058,Broche,,3,$10.46,2024-02-25
+1041,Ecobag,[Simples],4,$22.73,2024-03-09
+1085,Camiseta,"[Cinza, G]",5,$89.97,2024-05-08
+1038,Ecobag,[Estampada],2,$51.97,2024-05-30
+1014,Caneca,"[Cinza, G]",3,$78.66,2024-06-13
+1014,Chaveiro,[Simples],1,$79.73,2024-06-20
+1072,Boné,[Com logo],3,$19.38,2024-02-22
+1015,Pulseira,[Simples],3,$26.24,2024-05-26
+1080,Mochila,[Simples],2,$32.20,2024-06-14
+1040,Blusa,"[Preto, G]",4,$70.94,2024-04-25
+1028,Mochila,"[Preto, G]",4,$20.04,2024-05-21
+1090,Broche,"[Cinza, G]",3,$20.92,2024-03-12
+1068,Boné,[Sem estampa],1,$38.82,2024-02-11
+1080,Camiseta,[Edição limitada],3,$83.59,2024-04-29
+1048,Ecobag,"[Vermelho, M]",3,$61.25,2024-05-24
+1057,Caneca,[Simples],5,$38.55,2024-02-23
+1082,Ecobag,"[Branco, P]",3,$87.60,2024-03-09
+1032,Chaveiro,[Edição limitada],4,$70.72,2024-01-30
+1038,Boné,[Estampada],2,$57.93,2024-04-29
+1008,Caneca,[Sem estampa],4,$66.61,2024-01-18
+1100,Corrente,[Simples],4,$17.43,2024-02-09
+1098,Blusa,"[Cinza, G]",5,$16.68,2024-03-25
+1080,Corrente,[Simples],4, ,2024-06-02
+1002,Broche,"[Vermelho, M]",4,$84.79,2024-04-02
+1032,Caneca,[Sem estampa],5,$55.85,2024-05-22
+1043,Caneca,"[Azul, M]",5,$80.07,2024-05-08
+1069,Boné,[Simples],5,$22.24,2024-01-17
+1023,Camiseta,"[Branco, P]",4,$51.18,2024-06-25
+1088,Blusa,"[Preto, G]",2,$64.01,2024-04-23
+1092,Corrente,[Sem estampa],1,$99.16,2024-04-12
+1074,Caneca,[Simples],2,$67.21,2024-03-25
+1054,Blusa,[Edição limitada],5,$41.05,2024-01-23
+1075,Mochila,[Sem estampa],4,$85.58,2024-02-27
+1062,Chaveiro,[Edição limitada],2,$14.50,2024-04-06
+1008,Caneca,,3,$72.62,2024-03-02
+1007,Corrente,"[Azul, M]",1,$13.74,2024-04-09
+1099,Boné,[Simples],2,$77.42,2024-01-06
+1093,Blusa,,1,$43.91,2024-03-13
+1097,Boné,"[Vermelho, M]",1,$32.88,2024-01-25
+1013,Caneca,"[Cinza, G]",4,$46.42,2024-05-04
+1026,Blusa,[Edição limitada],5,$12.36,2024-05-10
+1045,Mochila,"[Cinza, G]",5,$24.42,2024-04-09
+1010,Chaveiro,"[Vermelho, M]",2,$59.39,2024-05-25
+1065,Caneca,[Com logo],3,$77.95,2024-01-07
+1045,Pulseira,"[Branco, P]",2,$54.66,2024-06-10
+1072,Caneca,"[Cinza, G]",2,$73.73,2024-01-10
+1014,Broche,,4, ,2024-06-17
+1049,Mochila,"[Preto, G]",3,$49.48,2024-06-02
+1021,Camiseta,"[Preto, G]",4, ,2024-03-17
+1059,Broche,[Sem estampa],5,$89.30,2024-03-28
+1033,Ecobag,[Simples],1,$12.37,2024-05-12
+1022,Broche,[Com logo],5,$40.57,2024-03-08
+1030,Chaveiro,"[Vermelho, M]",1,$36.69,2024-04-26
+1093,Mochila,[Simples],5,$13.18,2024-06-13
+1092,Blusa,[Sem estampa],1,$83.67,2024-03-22
+1026,Ecobag,"[Azul, M]",3,$60.90,2024-03-01
+1021,Chaveiro,[Simples],3,$68.95,2024-02-17
+1096,Pulseira,[Sem estampa],4,$37.28,2024-01-03
+1045,Blusa,[Simples],5,$87.06,2024-03-04
+1057,Ecobag,[Simples],2,$68.17,2024-05-16
+1085,Broche,"[Azul, M]",5,$27.55,2024-01-25
+1042,Chaveiro,"[Vermelho, M]",2,$39.50,2024-04-10
+1041,Corrente,"[Vermelho, M]",1,$88.30,2024-04-03
+1046,Chaveiro,"[Preto, G]",4,$96.95,2024-01-18
+1042,Caneca,[Simples],1,$69.90,2024-03-21
+1018,Caneca,"[Azul, M]",4,$63.00,2024-06-26
+1037,Corrente,[Com logo],3, ,2024-03-25
+1015,Broche,[Simples],1,$19.21,2024-02-04
+1057,Mochila,[Sem estampa],5,$10.33,2024-06-08
+1028,Boné,"[Branco, P]",1,$12.96,2024-05-11
+1006,Boné,[Edição limitada],3,$31.49,2024-03-27
+1049,Mochila,,5,$72.51,2024-06-07
+1075,Chaveiro,"[Branco, P]",1,$99.98,2024-06-20
+1034,Blusa,"[Azul, M]",1,$11.36,2024-06-14
+1027,Caneca,"[Cinza, G]",1,$76.27,2024-02-03
+1000,Broche,"[Cinza, G]",1,$19.15,2024-01-18
+1088,Ecobag,[Edição limitada],2,$95.32,2024-06-10
+1073,Camiseta,[Simples],1,$48.70,2024-04-01
+1033,Boné,"[Vermelho, M]",1,$66.53,2024-03-28
+1016,Mochila,[Com logo],4,$58.66,2024-04-06
+1098,Blusa,"[Vermelho, M]",1,$38.29,2024-03-28
+1077,Boné,,4,$91.20,2024-04-22
+1097,Pulseira,[Sem estampa],5,$54.95,2024-03-24
+1041,Camiseta,"[Preto, G]",3,$83.41,2024-01-14
+1013,Broche,[Edição limitada],4,$84.55,2024-06-02
+1068,Camiseta,,2,$51.07,2024-01-22
+1031,Mochila,"[Cinza, G]",1,$48.74,2024-06-27
+1096,Pulseira,"[Vermelho, M]",5,$50.46,2024-06-17
+1049,Broche,[Estampada],5,$31.95,2024-04-21
+1055,Boné,[Sem estampa],2,$84.21,2024-04-17
+1086,Boné,"[Preto, G]",1,$69.43,2024-04-03
+1098,Pulseira,"[Azul, M]",5,$57.88,2024-05-06
+1070,Mochila,[Edição limitada],5,$26.44,2024-06-18
+1028,Chaveiro,"[Cinza, G]",4,$84.99,2024-03-29
+1091,Corrente,[Estampada],4,$27.13,2024-06-19
+1048,Corrente,[Com logo],2,$67.63,2024-03-01
+1084,Corrente,[Estampada],1,$79.11,2024-04-29
+1072,Mochila,"[Azul, M]",2,$62.21,2024-05-13
+1027,Corrente,[Sem estampa],3,$26.25,2024-02-05
+1086,Blusa,[Sem estampa],5,$34.55,2024-04-18
+1012,Mochila,[Edição limitada],3,$57.53,2024-02-23
+1058,Corrente,[Com logo],1,$34.30,2024-01-15
+1083,Chaveiro,"[Preto, G]",5,$63.97,2024-01-31
+1027,Broche,"[Branco, P]",4,$22.27,2024-05-03
+1005,Caneca,"[Preto, G]",5,$80.75,2024-02-03
+1040,Boné,"[Vermelho, M]",1,$81.77,2024-01-05
+1090,Boné,"[Vermelho, M]",1,$93.72,2024-05-14
+1056,Corrente,[Simples],2,$61.46,2024-03-22
+1035,Broche,[Simples],3,$98.22,2024-05-29
+1093,Camiseta,"[Azul, M]",1,$97.71,2024-03-24
+1043,Pulseira,"[Azul, M]",4,$66.80,2024-01-07
+1099,Corrente,"[Preto, G]",3, ,2024-05-11
+1035,Boné,[Sem estampa],5,$21.63,2024-01-20
+1096,Mochila,[Sem estampa],3,$67.57,2024-01-19
+1080,Boné,"[Preto, G]",1,$30.37,2024-02-26
+1070,Mochila,"[Branco, P]",1,$68.27,2024-01-26
+1050,Corrente,[Edição limitada],3,$55.71,2024-01-31
+1030,Broche,[Edição limitada],4,$13.66,2024-03-03
+1080,Broche,[Estampada],4,$93.82,2024-06-18
+1028,Boné,[Com logo],3,$16.71,2024-02-18
+1048,Mochila,"[Preto, G]",2,$21.00,2024-03-10
+1094,Broche,"[Azul, M]",4,$33.93,2024-04-05
+1097,Chaveiro,[Sem estampa],1,$21.35,2024-05-03
+1036,Caneca,[Edição limitada],2,$63.44,2024-02-06
+1004,Blusa,[Sem estampa],5,$35.62,2024-01-16
+1061,Boné,[Simples],1,$81.46,2024-03-30
+1010,Ecobag,"[Preto, G]",3,$58.53,2024-03-26
+1097,Chaveiro,[Estampada],2,$22.11,2024-03-07
+1090,Pulseira,[Sem estampa],5,$90.90,2024-01-31
+1099,Chaveiro,"[Cinza, G]",2,$60.49,2024-01-11
